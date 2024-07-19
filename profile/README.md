@@ -26,7 +26,10 @@ WEWESWAP is an innovative Automated Market Maker (AMM) designed to revolutionize
 WEWESWAP is currently in active development. We're working hard to bring you the future of decentralized trading!
 
 - [x] Whitepaper Release
-- [x] Smart Contract Development
+- [x] Landing Page
+- [x] Web App UI/UX Design
+- [x] Web App Frontend
+- [ ] Smart Contract Development
 - [ ] Security Audits
 - [ ] Testnet Deployment
 - [ ] Mainnet Launch

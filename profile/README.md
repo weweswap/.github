@@ -1,6 +1,6 @@
 # WEWESWAP: Next-Generation Automated Market Maker (AMM)
 
-![WEWESWAP Intern](https://www.weweswap.com/_next/image?url=%2Fimg%2Fuser.jpg&w=640&q=75)
+![WEWE Header](https://github.com/user-attachments/assets/20c2264e-39c8-404d-9481-d2b73fb80bbd)
 
 ## 🚀 About WEWESWAP
 
@@ -28,7 +28,7 @@ WEWESWAP is currently in active development. We're working hard to bring you the
 - [x] Whitepaper Release
 - [x] Landing Page
 - [x] Web App UI/UX Design
-- [x] Web App Frontend
+- [x] Frontend Development
 - [ ] Smart Contract Development
 - [ ] Security Audits
 - [ ] Testnet Deployment
@@ -44,18 +44,18 @@ We welcome contributions from the community! Whether you're a developer, designe
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Please act in accordance with our code of conduct and the process for submitting pull requests.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## 🔗 Links
 
 - [Website](https://weweswap.com)
-- [Documentation](https://docs.weweswap.com)
 - [Twitter](https://x.com/weweswap)
 - [Discord](https://discord.gg/WPeD2uHrcV)
+- Documentation - coming soon!
 
 ## 💬 Contact
 

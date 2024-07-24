@@ -1,6 +1,6 @@
 # WEWESWAP: Next-Generation Automated Market Maker (AMM)
 
-![WEWE Header](https://github.com/weweswap/resources/blob/main/logos/covers/wewecoin-cover-1500x500.jfif)
+![WEWE Header](https://github.com/weweswap/resources/blob/main/logos/covers/wewecoincover1500x500.svg.svg)
 
 ## 🚀 About WEWESWAP
 
